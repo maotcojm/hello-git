@@ -1,1 +1,1 @@
-print("Hola Git modificado por alguien de login")
+print("Hola Git lo modifica master porque es suyo")
